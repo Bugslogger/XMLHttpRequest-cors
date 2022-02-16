@@ -1,0 +1,29 @@
+{
+  "name": "xmlhttprequest",
+  "version": "1.0.0",
+  "description": "XMLHttpRequest to solve cors error on client side",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bugslogger/XMLHttpRequest-cors.git"
+  },
+  "keywords": [
+    "no-cors",
+    "cors",
+    "cors",
+    "error"
+  ],
+  "author": "MrDark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bugslogger/XMLHttpRequest-cors/issues"
+  },
+  "homepage": "https://github.com/Bugslogger/XMLHttpRequest-cors#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

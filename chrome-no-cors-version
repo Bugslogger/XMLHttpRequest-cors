@@ -1,0 +1,3 @@
+google-chrome --disable-site-isolation-trials --disable-web-security --user-data-dir="~/tmp"
+
+chrome.exe  --disable-site-isolation-trials --disable-web-security --user-data-dir="D:\temp"
